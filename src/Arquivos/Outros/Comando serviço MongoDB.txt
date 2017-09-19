@@ -1,0 +1,11 @@
+Windows
+
+net start MongoDB
+
+net stop MongoDB
+
+Linux
+
+service mongod start
+
+service mongod stop

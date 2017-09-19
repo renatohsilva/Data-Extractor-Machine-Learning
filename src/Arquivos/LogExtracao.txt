@@ -1,0 +1,20 @@
+Número de palavras e símbolos analisados: 91969
+ 
+Número de ocorrência de Alvos:
+221 frases possuem 0 alvo.
+3071 frases possuem 1 alvo.
+494 frases possuem 2 alvos.
+77 frases possuem 3 alvos.
+18 frases possuem 4 alvos.
+4 frases possuem 5 alvos.
+3 frases possuem 6 alvos.
+ 
+Número de palavras nos Alvos:
+3331 alvos possuem 1 palavra.
+597 alvos possuem 2 palavras.
+370 alvos possuem 3 palavras.
+69 alvos possuem 4 palavras.
+20 alvos possuem 5 palavras.
+10 alvos possuem 6 palavras.
+2 alvos possuem 7 palavras.
+1 alvo possui 8 palavras.

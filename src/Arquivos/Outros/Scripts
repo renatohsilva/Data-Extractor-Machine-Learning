@@ -1,0 +1,6 @@
+./crfsuite learn --split=10 --cross-validate Atributos.txt 
+
+./crfsuite learn -m CRF.model Atributos.txt 
+
+./crfsuite tag -m CRF.model -qt Atributos.txt 
+

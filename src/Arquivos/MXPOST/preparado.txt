@@ -1,0 +1,468 @@
+Os tipos de pigmentos utilizados na fotossíntese variam nos diferentes grupos de organismos fotossintetizantes .
+Nos vegetais superiores , os pigmentos mais importantes são a clorofila A e clorofila B , pigmentos verdes que absorvem a luz no violeta , no azul e no vermelho , refletindo no verde ; por isso , são verdes .
+Colocando-se em um gráfico os diferentes comprimentos de onda em função da taxa em que se processa a fotossíntese , pode-se verificar o espectro de ação da luz na fotossíntese : [ gráfico ] .
+Observando-se os gráficos apresentados , pode-se notar que os picos do espectro de ação da luz na fotossíntese e os do espectro de absorção da luz pela clorofila têm padrão semelhante , evidenciando que a clorofila é o pigmento mais importante na recepção da luz na fotossíntese .
+Em certas plantas aquáticas , outros pigmentos , como a ficoeritrina e a ficoxantina , também absorvem a luz eficientemente .
+Nesses casos , o espectro de ação da luz na fotossíntese é diferente daquele apresentado anteriormente , estando os picos de maior taxa de fotossíntese praticamente coincidentes com os de absorção pelos pigmentos citados .
+A equação tradicional da fotossíntese é : [ equação ] .
+Essa reação , no entanto , não pode mais ser aceita como correta , tendo em vista que o oxigênio liberado na fotossíntese provém da água e não do gás carbônico .
+Isto foi confirmado por um experimento clássico , no qual o oxigênio da água foi marcado com o isótopo radioativo o18 , verificando-se que todo o oxigênio liberado na fotossíntese era radioativo .
+Dessa forma , a reação aceita é : [ equação ] .
+A fotossíntese , no entanto , não ocorre em apenas uma reação química .
+Existem várias reações , que podem ser divididas em duas etapas : a primeira , fotoquímica , em que há necessidade de energia luminosa , e a segunda química , na qual não há necessidade de luz .
+As reações que ocorrem na etapa fotoquímica são chamadas de reações de claro e as que ocorrem na etapa química são chamadas de reações de escuro .
+A etapa fotoquímica ocorre nas lamelas e nos grana dos cloroplastos e a etapa química ocorre no estroma dessa organela .
+Na etapa fotoquímica da fotossíntese , ocorrem os seguintes processos : fotólise da água , fotofosforilação acíclica e fotofosforilação cíclica .
+É a quebra da molécula de água sob a ação da luz , havendo liberação do oxigênio para a atmosfera e transferência dos átomos de hidrogênio para transportadores de hidrogênio .
+Essa reação foi descoberta por Hill , em 1937 , sendo , por isso , também chamada de reação de Hill .
+Esse autor , no entanto , não sabia qual era a substância receptora de hidrogênio .
+Hoje sabe-se que é o nadp ( nad+ fosfato ) .
+Fotofosforilação significa adição de fosfatos ( fosforilação ) em presença de luz ( foto ) .
+A substância que sofre fosforilação , na fotossíntese , é o adp , formando Atp .
+Nos cloroplastos de plantas superiores , as moléculas de clorofila - clorofila a e clorofila b - , ao receber energia luminosa , ficam oxidadas , ou seja , perdem elétrons .
+Isto ocorre porque a energia luminosa excita os elétrons , que pulam para fora da molécula .
+Isolando-se moléculas de clorofila em uma solução e iluminando-as , verifica-se que há fluorescência , porque os elétrons excitados pulam para um nível energético mais alto e ao retornar ao nível anterior liberam , sob a forma de luz , a energia adquirida .
+Em cloroplastos inteiros isto não ocorre , pois os elétrons excitados são captados por substâncias aceptoras de elétrons .
+À medida que o elétron excitado passa de um aceptor para outro , perde gradativamente sua energia , que é utilizada na síntese de Atp .
+Na clorofila isolada , o elétron volta à molécula de clorofila sem passar por aceptores intermediários , sendo a energia liberada de uma só vez .
+Na fotofosforilação acíclica , os elétrons excitados não voltam ao mesmo tipo de molécula .
+Por isso , é chamada de acíclica .
+Observando o esquema simplificado , pode-se notar que na fotofosforilação acíclica os elétrons excitados saem da clorofila b e vão para a clorofila a , indo , em seguida , da clorofila a para o nadp .
+Nesse conjunto de reações é formado Atp e o nadp fica reduzido , pois recebe dois elétrons ( nadp - ) .
+Essa substância é que recebe os íons h+ originados na fotólise da água .
+Observe , também , que a clorofila b fica oxidada , pois perde seus elétrons , que serão repostos por aqueles provenientes da fotólise da água .
+Na fotofosforilação cíclica , também ocorre adição de fosfato ao adp , produzindo Atp em presença de luz e clorofila .
+Esse processo difere da fotofosforilação acíclica , pois os elétrons excitados saem da molécula de clorofila a e voltam para ela mesma .
+A clorofila b não participa desse processo .
+Os elétrons excitados passam por aceptores de elétrons e liberam energia aos poucos , que será utilizada na síntese de Atp .
+Na fotofosforilação cíclica , assim como na acíclica , há formação de Atp , que será muito importante na etapa seguinte da fotossíntese - a etapa química - , em que se utilizará a energia dessas moléculas na síntese de compostos orgânicos .
+Os três processos descritos ocorrem simultaneamente nos cloroplastos , como se os três esquemas fossem unidos em um só .
+A fotofosforilação cíclica produz Atp e nela ocorre o fechamento do ciclo .
+A fotofosforilação acíclica está relacionada à fotólise da água , como mostra o esquema seguinte .
+Na fase fotoquímica são produzidas moléculas de oxigênio , libertadas para a atmosfera , e moléculas de nadph2 e Atp , utilizadas nas reações de escuro , que constituem a etapa química da fotossíntese .
+Esta etapa da fotossíntese ocorre no estroma dos cloroplastos , sem necessidade de luz ( reações de escuro ) .
+É nessa fase que se forma o açúcar , pela reação entre o gás carbônico do ar atmosférico e os nadph2 e os atps produzidos nas reações de claro .
+A equação dessa fase pode ser resumida da seguinte forma : co2 + 2nadph2 + 2atp • [ ch20 ] + h20 + 2nadp essa síntese ocorre através de várias reações químicas complexas , conhecidas como ciclo das pentoses ou ciclo de Calvin , em homenagem ao seu descobridor .
+De uma forma simplificada , pode-se esquematizar esse ciclo da seguinte forma : [ figura ] .
+A substância que recebe o c02 é uma pentose difosfatada ( açúcar com cinco átomos de carbono que apresenta dois radicais fosfato ) chamada ribulose difosfato , formando uma hexose instável , que logo se divide em duas trioses chamadas ácido fosfoglicérico ou Pga .
+Esse ácido pode seguir três caminhos : entrar na síntese de ácidos graxos que irão formar os lipídios , entrar na síntese de aminoácidos que irão formar as proteínas ou seguir o ciclo das pentoses , em que passará para gliceraldeído ( triose ) , utilizando Atp e nadph2 e perdendo água .
+O gliceraldeído pode formar o glicerol , que entra na síntese de lipídios , ou a frutose , que formará a glicose , ou regenerar a pentose , continuando o ciclo .
+Através do ciclo das pentoses , há produção de glicose e liberação de água , além da apresentação de produtos intermediários utilizados na síntese de outras substâncias orgânicas .
+O processo fotossintético pode ser assim esquematizado : na primeira etapa , que é a fotoquímica , a molécula de água é quebrada , sendo o oxigênio liberado para a atmosfera e o hidrogênio incorporado ao nadp .
+Nessa etapa , há formação de Atp .
+O nadph2 e o Atp produzidos na etapa i participam da etapa ii , que é a química .
+Nessa etapa , o c02 é reduzido a glicose através de uma série de reações químicas que utilizam a energia liberada na transformação do Atp em adp e a liberada na oxidação do nadph2 .
+Na etapa ii , é produzida água .
+Representando-se todas as reações que ocorrem nessas duas etapas e somando-se todas as equações , obtém-se a fórmula geral da fotossíntese , já apresentada anteriormente .
+Os organismos que realizam esse processo são as sulfobactérias , que vivem em ambiente anaeróbico ( sem oxigênio ) e apresentam , além de outros pigmentos , um tipo especial de clorofila , que é a bacterioclorofila .
+Esse pigmento absorve comprimentos de luz correspondentes ao infravermelho , que está fora do espectro da luz visível ao olho humano , dando a falsa impressão de ocorrer no escuro .
+Convém observar que nesse processo não há liberação de oxigênio .
+Além disso , a fotorredução não ocorre quando essas bactérias são colocadas em ambiente aeróbico ( rico em oxigênio ) , pois o oxigênio inibe o processo .
+A quimiossíntese é um processo realizado por algumas bactérias não clorofiladas , que têm a capacidade de oxidar substâncias inorgânicas e utilizar a energia libertada neste processo na síntese de compostos orgânicos a partir de gás carbônico e de água .
+São exemplos de bactérias quimiossintetizantes as nitrobactérias .
+O tecido conjuntivo cartilaginoso , ou simplesmente cartilagem , apresenta consistência firme , atuando como um dos tecidos de sustentação do corpo .
+A eficiência neste sentido só é ultrapassada pelo tecido ósseo , que apresenta estruturas mais aperfeiçoadas no desempenho da função de suporte .
+Isto É - 01 de maio de 1996 .
+E o social ?
+Cinco semanas depois de conseguir evitar a criação da Cpi dos bancos no Senado e de aprovar a reforma da previdência na câmara , o presidente Fernando Henrique Cardoso cumpriu o que negara em praça pública , mas prometera em conversas reservadas : mudou parte do Ministério para atender aos políticos .
+Pode-se olhar esta mudança sob o surrado prisma do " é dando que se recebe " .
+Ele é verdadeiro .
+O presidente precisava de apoio e os parlamentares condicionaram os votos a mais e melhores cargos no governo .
+Mas também deve-se enxergar a reforma sob outros ângulos .
+Quando Fernando Henrique montou a aliança com o Pfl e o Ptb para disputar a Presidência , muita gente chiou , mas ninguém duvidava que , se a chapa fosse vencedora , os dois partidos teriam o legítimo direito de integrar o governo .
+Ou seja : indicar nomes para ministérios , diretorias de órgãos públicos e empresas estatais .
+Depois da vitória , Fhc tratou de se compor com o PMDB e o partido também ganhou seu pedacinho .
+Agora , 16 meses após a posse , foi a vez de o Ppb do prefeito Paulo Maluf , de São Paulo , ser agraciado .
+A nomeação do deputado Francisco Dornelles ( Ppb - Rj ) para o Ministério Da Indústria , Do Comércio E Do Turismo mostra que Fhc fecha um arco cada vez mais amplo em favor das reformas .
+Ao mesmo tempo , a indicação do líder do governo na Câmara , Luiz Carlos Santos ( Pmdb - Sp ) , para o cargo de ministro extraordinário da Coordenação Política revela que o presidente não pretende mais correr o risco de descontentar aliados , perdendo votos em decisões de peso .
+A reforma ministerial da última semana , portanto , é consequência de uma realidade que já se impunha há alguns meses .
+E poucos analistas políticos ousariam duvidar que ela certamente melhorará a posição do Executivo na hora em que reformas ainda mais barulhentas , como a da administração pública , alcançarem o plenário .
+O governo de Fhc , contudo , não enfrenta apenas o desafio de conseguir votos no Congresso para realizar reformas .
+Ele tem a obrigação , assumida no palanque , de resgatar parte da dívida social brasileira .
+E é aí que está o problema .
+As mudanças da última semana não dão nenhum sinal de que algo mudará na asfixiante taxa de juros ou na recessiva política econômica .
+Como sem crescimento não existe desenvolvimento social , volta-se a outro surrado diagnóstico .
+Não basta trocar nomes .
+É preciso mudar políticas .
+Neste caso , ele é tão verdadeiro quanto o " é dando que se recebe " .
+A executiva francesa Yannick Vautier , faixa preta de caratê , 45 anos , no Brasil desde 1975 , sempre se achou uma mulher forte e inabalável .
+Tão forte a ponto de resistir sem cuidados médicos , por mais de 12 horas , às dores de um infarto cardíaco .
+Em 1990 , Yannick , diretora comercial de uma rede de hotéis brasileiros , fazia uma palestra em Genebra , na Suíça , quando uma dor potente tomou-lhe as costas .
+Inabalável , terminou a conferência , tomou um avião rumo a Paris , jantou com amigos e foi para a casa dos pais .
+Não tinha a mais remota noção da origem daquela dor misteriosa .
+Às 3h da madrugada , foi levada para um hospital .
+" o infarto foi violento .
+Tive uma parada cardíaca , a morte chegou perto " , conta ela , agora com duas pontes de safena e uma de mamária implantadas pelos cirurgiões franceses .
+Yannick sofreu um infarto aos 39 anos .
+Sua história ilustra uma tendência registrada pelos especialistas : a incidência de doenças cardiovasculares , tidas por muitos como males masculinos , aumenta de forma preocupante entre mulheres de 35 e 55 anos .
+" nas últimas duas décadas , após os movimentos de liberação feminina , as mulheres passaram a competir , assumiram cargos e responsabilidades .
+A exemplo dos homens , ficaram expostas ao stress , tabagismo associado ao uso de pílulas anticoncepcionais , hipertensão arterial , sedentarismo , alcoolismo e alimentação inadequada .
+Esses fatores de risco formam o cenário para o aumento na incidência de doenças cardiovasculares " , afirma o cardiologista Mário Maranhão , professor da Universidade Federal Do Paraná e presidente do 13º Congresso Mundial De Cardiologia , agendado para abril de 1998 no Rio De Janeiro .
+Entre os especialistas da área , o tema promete empolgar nos próximos três grandes encontros agendados no Brasil .
+Roubará a cena no simpósio internacional Mulher E Coração , nos dias 25 e 26 de outubro , em São Paulo , e no Congresso Brasileiro De Cardiologia , a ser realizado de 22 a 25 de setembro em Salvador .
+Será também a estrela entre os 12 mil médicos e pesquisadores esperados no congresso mundial do Rio .
+O assunto merece mesmo uma boa discussão .
+Prova disso são os dados levantados , a pedido de Istoé , por diretores e cirurgiões de quatro importantes centros de cardiologia no país .
+Uma equipe do Instituto Dante Pazzanese , em São Paulo , liderada pelo cardiologista Giuseppe Della Guardia , pesquisou durante seis anos 712 pacientes com doença cardiovascular comprovada .
+Do total , 146 pacientes , ou 20,5 , eram mulheres .
+" no último levantamento , feito em 1975 , elas não eram mais do que 7 " , atesta Della Guardia .
+Ou seja , em 20 anos , triplicou a incidência de problemas nos corações femininos .
+Eles atingem mais mulheres e elas são cada vez mais jovens .
+Na década de 80 , de cada 100 mulheres com infarto atendidas no Hospital Pró-Cardíaco , no Rio , dez estavam na faixa dos 30 aos 40 anos , de acordo com o cardiologista Ricardo Vivacqua , chefe do Departamento De Ergometria E Reabilitação Cardíaca do hospital .
+" nos anos 90 , a relação é de 30 para 100 " , garante ele .
+Outro estudo , com 347 pacientes , levado a cabo no mesmo Pró-Cardíaco pelo coordenador de ensino e pesquisa Roberto Bassan , atesta uma mortalidade hospitalar de 11 entre os homens e 25 no grupo feminino .
+Em sete anos , o índice de cirurgias feitas em mulheres no Instituto Do Coração ( Incor ) , em São Paulo , saltou de 19 para 23 .
+" um aumento de quatro pontos porcentuais em sete anos precisa ser analisado com cuidado " , alerta Protásio Da Luz , diretor de clínica do Incor .
+" mas todo cuidado é pouco .
+Se considerarmos todas as faixas etárias , as doenças cardiovasculares são a principal causa de morte entre as mulheres nos países ocidentais .
+" a luz de alerta está acesa também no rio grande do sul .
+" quando introduzimos a ponte de safena no estado , em 1970 , as mulheres respondiam por 10 das cirurgias " , afirma Ivo Nesralla , presidente da fundação Instituto De Cardiologia Do Estado e professor titular de cirurgia cardíaca da Universidade Federal Do Rio Grande Do Sul ( Ufrgs ) .
+" hoje , 35 a 40 das intervenções são realizadas em pacientes do sexo feminino .
+" o stress , na verdade , pode causar estragos não apenas nas artérias coronárias e coração , mas em todo o sistema vascular .
+" a evolução dessas doenças em mulheres jovens é mais rápida que nos homens " , afirma o cirurgião vascular Ricardo Aun .
+Em meados da década de 70 , atesta Aun , 10 dos pacientes submetidos a tratamento por acidente vascular eram mulheres .
+Hoje , esse número saltou para 22 .
+A contabilidade particular de Aun mostra que 20 das cirurgias comandadas por ele no hospital Albert Einstein , em São Paulo , foram feitas em pacientes do sexo feminino .
+" situações graves como a obstrução de veia carótida , que antes praticamente só surgiam nas mulheres a partir dos 60 anos , hoje começam a ter uma incidência preocupante a partir dos 45 " , explica o cirurgião .
+Entre os 35 e os 50 anos , no climatério ( diminuição da produção dos hormônios , sobretudo estrógeno e progesterona ) , a proporção de mortes por infarto é de uma mulher para cada sete homens .
+A partir dos 50 anos , na menopausa , essa relação chega a ser de uma para três e , após os 60 , quando a eliminação do estrógeno é quase total , a proporção é igual : uma mulher por um homem .
+Mas , apesar da proteção hormonal entre os 35 e 50 anos , a ordem , atestam os cardiologistas , é desfazer a impressão de que mulheres não precisam se preocupar com doenças cardiovasculares antes da menopausa .
+" as campanhas de saúde pública recomendam , com razão , exames preventivos contra câncer no seio e no útero , mas nunca vi uma orientação em massa para as mulheres fazerem testes ergométricos ou exames para diagnosticar hipertensão arterial e índices de colesterol " , reclama o cardiologista Otávio Gebara , do setor de cardiogeriatria do Incor .
+Colocadas em prática , as sugestões do cardiologista poderiam ter poupado a bancária curitibana Guiomar Cunha , 45 anos , de um grande susto .
+Espantada por carregar o peso de ser a primeira mulher a assumir a gerência de um grande banco privado na região sul , Guiomar não se contentava com menos de 14 horas de trabalho diário , movidas a sanduíches adiposos e dois maços de cigarro .
+Teve um infarto aos 34 anos , um caso raro .
+Ironia suprema , recebeu o petardo enquanto caminhava , de férias , em uma calçada da cidade mineira de pouso alegre .
+De repente , a pontada , o peito e as costas tomados por uma dor aguda , insuportável .
+" a gente começa a exagerar e não percebe os limites .
+Maldita competição " , pragueja .
+O emprego ainda é o mesmo , mas as lembranças daquela vida param por aí .
+Guiomar mudou de ritmo .
+Não passa de oito horas no trabalho e trocou as bombas de gordura e colesterol por saladas e grelhados de carne branca .
+Além disso , caminha quatro vezes por semana e se transformou em inimiga assumida do cigarro .
+O trabalho dentro de uma agência parece ser um atalho para o stress .
+Em 1994 , Dimas Portela , 38 anos , mãe de dois filhos , ocupava o cargo de gerente de negócios de um banco estatal em porto alegre .
+Estava a um passo do último degrau da profissão , a gerência geral , quando sofreu dois infartos seguidos .
+A data não sai de sua cabeça porque , dois dias antes , o coração de todos os brasileiros tinha batido mais forte .
+" aconteceu logo depois da final contra a Itália , na copa do mundo nos Estados Unidos " .
+Naquela mesma semana , garante , outra gerente do banco e uma caixa haviam morrido de infarto fulminante .
+" a competição na nossa área é imensa .
+Precisamos cumprir metas e isso nos deixa sob tensão constante .
+" Dimas foi obrigada a se aposentar .
+" gostava da profissão .
+Se tivesse tomado alguns cuidados , talvez ainda estivesse na ativa .
+Poderia , antes , ter dedicado uma hora por dia de minha vida para cuidar de mim .
+Talvez evitasse tudo .
+" hoje ela se dispõe a recuperar o tempo perdido com ioga , terapia e as tradicionais caminhadas .
+Até aquela tarde de felicidade prolongada para os amantes do futebol , a bancária Dimas nem sequer havia considerado a hipótese de sofrer um problema nas artérias coronárias ou no coração .
+Neste ponto , sua história se parece com a da jornalista Margareth Guida , 38 anos , dona de uma empresa de assessoria de comunicação em São Paulo .
+Fumante voraz e workaholic como Guiomar , foi bombardeada há cinco anos por uma arritmia cardíaca , provocada por stress profundo .
+Resgatada de uma reunião para o Incor , ficou em observação por dois dias e foi aconselhada a mudar de vida .
+" o médico disse : ' o infarto está por chegar ' " , conta .
+Margareth dispensou o cigarro , adotou uma dieta orientada por um nutricionista , passou a caminhar todo dia e o inimigo , felizmente , não chegou .
+" as mulheres capazes de controlar a alimentação e manter uma atividade física reduzem pela metade o risco de sofrer problemas cardíacos " , calcula o cardiologista Vivacqua .
+As cariocas Beatriz Queiroz , 39 anos , proprietária de uma empresa de consultoria em marketing , e Sueli Leão , 46 , funcionária do Banco Central , não tiveram a mesma sorte .
+Os problemas de Beatriz começaram em dezembro passado , com um infarto .
+A angioplastia não reverteu o quadro e ela se submeteu a uma cirurgia de emergência .
+Sofreu uma nova crise de angina e , no dia 29 de março , recebeu uma ponte de safena na clínica São Vicente , em cirurgia comandada pelo cardiologista Ricardo Miguel .
+Beatriz é dessas pessoas que brigam no trânsito .
+" fumava muito e o susto me fez parar " , conta , enquanto são retirados os pontos da cirurgia .
+" levei uma vida sedentária nos últimos dez anos .
+Acordava cedo e ficava entre o trabalho , feito em casa , o cuidado com os filhos e a administração da casa .
+Tudo ao mesmo tempo , sempre .
+" Sueli fez a primeira cirurgia em outubro de 1995 : uma ponte mamária .
+As dores voltaram e , também em março , ela recebeu uma ponte de safena .
+" só procurei o médico quando comecei a sentir dores terríveis nas costas e no peito , falta de ar e dormência nas mãos " , diz .
+A grande cicatriz no peito provocou um pequeno trauma .
+" vai ser difícil usar roupa decotada agora .
+" o aumento do número de mulheres nos hospitais especializados chega a surpreender até mesmo as vítimas de doenças cardiovasculares , como a empresária gaúcha Vera Maria Klinkowski , 45 anos , ex-proprietária de uma corretora de imóveis .
+" quando fiz minha primeira cirurgia de válvula mitral , era um caso raro como paciente do sexo feminino " , diz .
+" mas nas últimas consultas , fiquei impressionada com a quantidade de mulheres no hospital .
+" ela voltou a operar a válvula mitral em 1992 e teve uma ameaça de infarto no ano passado .
+Vera era o próprio perfil de uma profissional urbana , candidata a algum tipo de problema cardiovascular .
+Fumava , não se furtava do prazer de saborear , sem controle , carnes vermelhas gordurosas e frituras , trabalhava de segunda a sexta-feira das oito da manhã às 11 da noite .
+Na época em que foi submetida à segunda cirurgia , o mercado imobiliário passava por maus momentos , combalido pelo Plano Collor .
+A ameaça de infarto no ano passado pegou Vera às voltas com problemas na empresa , mais tarde fechada .
+" sempre fui nervosa e agitada , mas a ansiedade gerada pelas dificuldades agravaram a situação " , reconhece .
+Após o último susto , Vera largou o cigarro , adotou uma alimentação mais saudável e intensificou os exercícios .
+A prevenção é a melhor forma de driblar experiências parecidas com as de Yannick , Margareth , Guiomar , Dimas , Vera , Beatriz e Sueli .
+As estatísticas começam a comprovar : a polêmica reposição de hormônios , sobretudo o estrógeno , produz resultados positivos .
+Para os críticos , a reposição aumenta os riscos de câncer no útero e mama , sangramento vaginal , dores de cabeça e aumento de peso .
+Os entusiastas acenam com os benefícios .
+" a reposição hormonal diminui em 40 , na média , os riscos do primeiro infarto e em pelo menos 70 as chances de um reinfarto , além de ajudar no combate à osteoporose " , argumenta Otávio Gebara .
+Além disso , as recomendações dos especialistas às mulheres dispostas a evitar os problemas cardíacos e coronarianos segue o roteiro tradicional .
+N uma dieta saudável , rica em vegetais , fibras e carnes brancas .
+Carnes vermelhas , gema de ovo , vísceras , frituras e derivados do leite devem ser evitados .
+N atividades físicas supervisionadas ( caminhadas ritmadas , natação , bicicleta ) pelo menos uma hora por dia , no mínimo quatro vezes por semana , para combater o sedentarismo .
+Controle dos fatores de risco ( pressão arterial , obesidade , tabagismo ) e exames periódicos para medir os índices de colesterol e glicemia .
+Evitar o stress , talvez o mais difícil conselho a seguir .
+A francesa Yannick Vautier respeita a cartilha .
+Aboliu o fumo , tenta aliviar o stress no tatame e faz exercícios com regularidade .
+Continua , no entanto , a encarar longas jornadas profissionais , agora como uma das diretoras da empresa de eventos Kock Tavares .
+" é impossível ficar livre do stress no trabalho , mas me esforço para minimizar os riscos .
+" o coração das mulheres , definitivamente , bate em um novo compasso .
+Colaborou : André Jockyman ( porto alegre ) encontrar uma executiva livre do stress é tarefa quase impossível .
+A tensão é permanente , fruto da competição acirrada e a obsessão por obter resultados cada vez melhores .
+No Rio , uma pesquisa com 1,4 mil mulheres , realizada pela clínica Med-Rio Check-up , especializada em detectar problemas de saúde entre executivos , chegou a um resultado impressionante : nada menos que 12 apresentavam sintomas de insuficiência coronariana na prova de esforço do teste ergométrico .
+Defensor de testes cardíacos periódicos para as executivas , o cardiologista Galileu Assis , da Med-Rio Check-up , faz um alerta .
+" a média de acerto do teste é de 70 , por isso recomendamos a essas mulheres atenção para prevenir possíveis problemas cardíacos no futuro próximo .
+" o estudo apurou outros indicadores alarmantes .
+A alimentação desequilibrada , por exemplo , afeta 80 das executivas .
+Sete em cada dez vivem de forma sedentária e 60 apresentam peso acima do ideal .
+Galileu esperava encontrar o grupo em melhores condições por causa da estabilidade gerada pelo Plano Real .
+Puro engano .
+" a economia está equilibrada , mas a pesquisa constatou que a cobrança e o nível de competição continuaram os mesmos .
+Com o aumento do hábito de fumar e da ingestão de bebidas alcoólicas , as executivas se transformaram em bombas-relógio em potencial " , conclui o médico .
+Um estudo detalhado , realizado pela faculdade de saúde pública da Usp , produziu , a um só tempo , uma péssima notícia para os moradores do Rio De Janeiro e Recife e uma boa nova para os residentes em Belo Horizonte , Belém e São Paulo .
+Após comparar índices de vítimas fatais de infarto nas duas últimas décadas , em oito capitais brasileiras , os pesquisadores descobriram que as mortes aumentaram entre os cariocas e recifenses .
+Mas nem tudo está perdido .
+Em belo horizonte , belém e até mesmo São Paulo , o número de mortes motivadas pela doença caiu .
+Concluída no ano passado , a pesquisa revela ainda que não houve mudanças nos índices em salvador , curitiba e porto alegre .
+O crescimento do risco para os corações dos cariocas alarmou o cardiologista augusto bozza , presidente da sociedade de cardiologia do rio .
+Após fazer as contas , bozza descobriu que o aumento de 2,5 de vítimas fatais no rio representa nada menos que 1,5 mil mortes , em um universo de cerca de 60 mil pessoas mortas pela doença todos os anos .
+Há algumas explicações para esse crescimento .
+O declínio econômico e a deterioração do serviço hospitalar da rede pública , deixando muita gente sem atendimento nos serviços de emergência , foram responsáveis pelo aumento de mortes .
+Trocador de ônibus de uma das linhas mais infernais do rio , em Duque De Caxias , o carioca gilmar pedrosa lima , 32 anos , nunca tinha tido problemas de saúde até infartar , há cinco anos .
+Passado o susto , gilmar foi licenciado pelo Inss e passou a receber r 100 para sustentar a mulher e dois filhos .
+Resultado : voltou a trabalhar como vendedor de sapatos , apesar das restrições dos médicos .
+Semanas atrás , lima voltou a sentir dores .
+Internou-se no hospital Pró-Cardíaco , na zona sul do rio para ser submetido a uma cirurgia .
+" trabalhar em contato com o povo é muito estressante .
+As pessoas trazem problemas do trabalho e descarregam em cima da gente " , diz ele , que vivia estressado com engarrafamentos e medo de assaltos .
+Quando infartou , gilmar começou a sentir dores às 11 da noite .
+Mas , como desconhecia os sintomas da doença , só procurou socorro médico cinco horas depois .
+Após vários diagnósticos errados , um eletrocardiograma detectou infarto .
+Devidamente medicado , lima sobreviveu .
+Muitos não têm a mesma sorte e morrem sem saber que tiveram um infarto .
+A falta de informação sobre a doença e seus sintomas iniciais , dor no peito , sudorese intensa e mal-estar , é , na avaliação de bozza , outro fator importante que contribui para o aumento das vítimas fatais no rio .
+" é preciso fazer campanhas que esclareçam as pessoas sobre o infarto " , diz o médico .
+O melhor remédio para reduzir a mortalidade provocada pela doença é , portanto , detectar o problema o mais rápido possível .
+" a mortalidade média no mundo ocidental por infarto não tratado está em torno dos 25 .
+Se o paciente é atendido na primeira hora , o índice cai para 1 " , diz o cardiologista .
+Mas os entregues ao serviço público nem sempre são atendidos a tempo .
+No recife , onde o índice de mortalidade por infartos subiu em média 4 nas últimas duas décadas , a falta de atendimento médico de urgência causou estragos .
+A carência da rede hospitalar pública de recife é confirmada pelo ex-presidente da sociedade pernambucana de cardiologia , brivaldo markman filho .
+" até o ano passado não havia setor de emergência cardiológica em nenhum dos hospitais públicos da cidade " , atesta markman .
+Em belém , a queda na mortalidade em torno de 2,7 pode estar relacionada à melhora na definição das causas das mortes , antes confundidas com outras doenças .
+Em são paulo , onde cerca de 100 mil pessoas morrem todos os anos de infarto , o índice caiu 1,23 .
+A explicação é um pouco mais nítida .
+Para bozza , o número de óbitos diminuiu porque a cidade conseguiu fazer o que o Rio não fez : aumentar a conscientização da população e prestar bons serviços de emergência nos hospitais públicos .
+São paulo apresentou índices ascendentes de morte por infarto entre as décadas de 40 e 60 .
+Felizmente , a virada iniciada nos anos 70 foi confirmada .
+Cristiane ramalho .
+Pressionado pelos partidos aliados e acuado pelo massacre dos sem-terra no Pará , o presidente Fernando Henrique Cardoso começou na última semana a primeira grande mexida em seu ministério .
+O gesto mais ousado foi entregar ao líder do governo na câmara , Luiz Carlos Santos ( Pmdb - Sp ) , o recém-criado ministério extraordinário de coordenação política .
+Por trás do título pomposo , o velho e manjado balcão de troca de cargos e favores por votos de deputados e senadores foi institucionalizado .
+" com inegável competência para a costura a ponto pequeno , ele saberá usar a caneta cheia de tinta que está recebendo " , aposta o presidente do Pmdb , deputado Paes De Andrade ( Ce ) , tido até agora pelo Planalto como um dos mais tinhosos adversários do governo no Congresso Nacional .
+" escolhi Luiz Carlos Santos por sua habilidade nas negociações com parlamentares " , justifica Fhc , que pretende continuar cuidando da articulação política no atacado e delegar ao novo ministro a tarefa de barganhar no varejo com a gulosa base no Congresso .
+Além de Santos , a reforma ministerial incluiu a nomeação do presidente do Instituto Brasileiro Do Meio Ambiente E Dos Recursos Naturais E Renováveis ( Ibama ) , Raul Jungman , para o Ministério Da Reforma Agrária , a ida do deputado Francisco Dornelles ( Ppb - Rj ) para a Indústria E Comércio e a substituição do senador José Eduardo De Andrade Vieira ( Ptb - Pr ) na Agricultura .
+O deputado Benito Gama ( Pfl - Ba ) ficou com a liderança do governo na Câmara .
+Escolhido para descascar abacaxis no relacionamento do governo com sua base parlamentar , Luiz Carlos Santos teve que resolver pepinos antes mesmo da sua confirmação oficial como articulador político do Palácio Do Planalto .
+Logo após a exibição da vitória da seleção brasileira de futebol sobre a equipe da África Do Sul na quarta-feira à tarde , o plantão do Jornal Nacional , da Rede Globo , anunciou a mudança ministerial , pegando de surpresa até mesmo os protagonistas da reforma .
+O vazamento atropelou o esquema montado pelo presidente durante almoço no Palácio Da Alvorada na quarta-feira 24 .
+Fernando Henrique reuniu os ministros das Comunicações , Sérgio Motta , e do Planejamento , José Serra , e os presidentes da Câmara , Luís Eduardo Magalhães , e do Pfl , Jorge Bornhausen , além do próprio Santos , para bater o martelo da reforma .
+Além das mudanças confirmadas , também estava previsto o deslocamento da ministra da Indústria e do Comércio , Dorothéa Werneck , para a Agricultura .
+O anúncio feito pela Rede Globo aconteceu antes que Dorothéa pudesse ser avisada pelo ministro da Educação , Paulo Renato De Souza , encarregado de informá-la da decisão do presidente .
+Foi um caos .
+Magoada por não saber o que estava acontecendo , Dorothéa entrou em depressão e chegou a chorar durante reunião com assessores .
+Constrangido com o desgaste involuntário imposto à ministra , Fhc foi visitá-la na noite da quinta-feira em missão de consolo .
+No Congresso , o estrago foi ainda maior .
+Acertado com setores do Pmdb e do Pfl , Fernando Henrique se preocupou em não avisar aos outros aliados .
+O objetivo era impedir a antecipação de possíveis reações negativas , além de tentar evitar vazamentos pelos líderes governistas no Congresso , considerados boquirrotos pela cúpula que acertou a mexida ministerial .
+O curioso é que dentre os excluídos da operação estava a própria direção do Psdb , partido de Fhc .
+A divulgação da notícia pela Rede Globo pegou a cúpula tucana de calças curtas .
+O líder do partido , deputado José Aníbal ( Sp ) , soube do furo jornalístico quando estava no plenário e na hora nem quis comentar o assunto .
+Com apenas 72 horas na presidência do Psdb , Teotônio Vilela Filho tomou um susto com a notícia e telefonou para o líder tucano no senado , Sérgio Machado ( Ce ) , que também não sabia de nada .
+Preocupado , Machado ligou para o secretário-geral da Presidência Da República , ministro Eduardo Jorge Caldas , e foi tranquilizado .
+" não tem o menor fundamento " , assegurou Eduardo Jorge , acrescentando que o Palácio divulgaria uma nota desmentindo a Rede Globo .
+Para indignação de Sérgio Machado , Eduardo Jorge ligou no início da noite e confirmou a escolha de Luiz Carlos Santos como articulador político do governo .
+A essa altura , a bancada do Psdb no Senado estava em pé de guerra .
+" isso é inaceitável , é uma falta de respeito " , protestou Machado numa reunião com seus liderados .
+Duas horas depois , na casa do presidente do Senado , José Sarney , a nata dos políticos de Brasília estava reunida para o aniversário do ex-presidente .
+O próprio Fernando Henrique estava lá .
+Ali , ao se deparar com o ministro das Comunicações , Sérgio Motta , o líder tucano cobrou a desconsideração .
+" calma , vamos conversar depois " , contemporizou Serjão .
+Na manhã de quinta-feira , Sérgio Motta voltou à carga .
+Logo cedo , ele disparou telefonemas para os líderes do Psdb com o propósito de chamá-los para uma reunião em seu gabinete .
+Magoado , José Aníbal esnobou o convite .
+" só converso com o presidente " , mandou avisar .
+A reação de Machado foi ainda mais dura .
+" imagina se tenho agora qualquer coisa para falar com o Serjão " , desdenhou .
+Com o ministro das Comunicações desgastado entre os tucanos , Fernando Henrique teve de cuidar pessoalmente da crise no Psdb .
+Na quinta-feira à noite , ele reuniu a cúpula do partido no Palácio Da Alvorada , serviu uísques e distribuiu afagos .
+Com Serjão a seu lado , o presidente lamentou o vazamento da reforma .
+" o vazamento foi de uma irresponsabilidade absoluta " , censurou Fhc .
+O ministro ouviu calado apesar de estar sendo apontado pelo Pfl e em seu próprio partido como o responsável pela divulgação antecipada da reforma ministerial .
+Acusado dois meses atrás por Dorothéa de querer seu lugar no ministério , Dornelles teve uma reação patética ao saber na quinta-feira à tarde que estava sendo anunciado como novo ministro da Indústria e do Comércio .
+" é mentira .
+Só se esqueceram de combinar comigo .
+Vou levar pancada outra vez da Dorothéa .
+" na realidade , as pancadas vieram de seu próprio partido .
+Na casa do líder do Ppb no senado , Epitácio Cafeteira ( Ma ) , na quarta-feira à noite o prefeito de São Paulo , Paulo Maluf , lutou o quanto pôde para convencer o partido a recusar um ministério que na ocasião pensava ser o da Agricultura .
+Os ruralistas de seu partido que disputavam ferrenhamente o cargo não aceitaram suas ponderações .
+Com apoio de boa parte da bancada , o deputado Vadão Gomes ( Sp ) foi simplesmente vetado pelo Planalto .
+Contra ele , pesavam o fato de ter sido dirigente da União Democrática Ruralista ( Udr ) e de ter acumulado fortuna da noite para o dia .
+Com o Ppb rachado , a reforma ministerial empacou .
+" são sempre os mesmos que se reúnem e tomam decisões sem sequer nos comunicar " , atacou o deputado Pauderney Avelino ( Am ) .
+Para tentar superar o impasse , o presidente do partido , senador Esperidião Amin ( Sc ) , e cafeteira foram pedir ajuda ao governador do Amazonas , Amazonino Mendes .
+Na frente dos dois senadores , Amazonino telefonou para Pauderney .
+" você precisa agir com prudência e serenidade .
+Vou cobrar isso depois " , ameaçou .
+Os rebeldes foram contidos e Amin comunicou à executiva do Ppb a intenção de Fhc de levar Dornelles para o governo .
+Para amenizar a derrota de Maluf , ele contou que informara a Fernando Henrique que o apoio do Ppb não é extensivo à proposta de reeleição .
+Enquanto tentava apagar o incêndio na base governista , Luiz Carlos Santos exibia já na quinta-feira um trunfo considerável .
+Com habilidade , ele conseguiu uma surpreendente unidade do Pmdb para sua nova função no governo .
+Para isso , Santos assegurou que terá mercadoria suficiente em sua prateleira no Planalto para saciar o apetite de aliados por favores e cargos .
+Santos também encantou os dirigentes de seu partido ao tratar da sucessão presidencial .
+Caso a proposta de reeleição não vingue , o novo ministro promete se empenhar para conseguir o apoio de Fhc para a candidatura do ex-presidente Itamar Franco ao planalto .
+Nada indica que o agrado de Santos ao Pmdb seja para valer .
+Há l5 dias , um parlamentar comentou que se ele fosse nomeado para o Planalto facilitaria a aprovação da emenda da reeleição .
+" comigo no Palácio , o presidente não ficará só oito , mas l6 anos no poder " , observou o novo ministro .
+Na realidade , a principal tarefa de Santos será obter apoio no Congresso para viabilizar a reeleição de Fernando Henrique .
+Para isso , vai costurar a aprovação da proposta de convocação de um plebiscito para decidir a questão .
+A consulta popular seria simultânea às eleições municipais no dia 3 de outubro .
+Para ser aprovado pelo Congresso , o projeto de autoria do deputado Márcio Fortes ( Psdb - Rj ) precisa apenas do apoio da maioria dos presentes em Plenário .
+Ao contrário dos tucanos que foram surpreendidos e não gostaram da escolha de Santos , a cúpula do Pmdb foi tratada desta vez com especial deferência por Fernando Henrique .
+Na segunda-feira 22 , ao final da reunião dos presidentes dos três poderes para tratar da reforma agrária , Fhc disse a Sarney que precisava falar com Jáder Barbalho .
+De volta ao Congresso , Sarney telefonou para o líder do Pmdb que estava em Belém e transmitiu o recado .
+" você sabe qual é o assunto ?
+" , sondou Jáder .
+" se prepare que deve ser reforma ministerial " , antecipou o presidente do Senado .
+Quando Jáder chegou ao Planalto às quatro e meia da tarde na terça-feira , Fernando Henrique abriu o jogo .
+Contou que estava pensando em transferir o ministro Odacir Klein para o novo Ministério e escolher um peemedebista para os Transportes e nomear o deputado Francisco Dornelles ( Ppb - Rj ) para a Agricultura .
+" gostaria de nomear o Luiz Carlos Santos para a coordenação política do governo .
+O que você acha ?
+" , perguntou Fhc .
+Defensor há tempos da criação do cargo , o líder do Pmdb não escondeu o entusiasmo com o que ouvia .
+" o governo tem enfrentado crises artificiais no Congresso justamente por faltar alguém que cuide do varejo da política " , avaliou .
+Às 19 horas do mesmo dia , Fhc ligou para Sarney e perguntou o que o ex-presidente achava da escolha de Santos .
+" não vejo nenhuma objeção , ele pode prestar uma grande contribuição ao governo " , avalizou Sarney .
+Conhecido operador político desde o tempo em que ajudava o governador Orestes Quércia a vencer batalhas na Assembléia Legislativa de São Paulo , Santos carimbou seu passaporte para o Planalto na votação em primeiro turno da reforma da Previdência .
+Com o aval de Fhc , reeditou a política do " é dando que se recebe " e virou votos em quase todos os partidos , principalmente no Pmdb .
+Encarregado pelo presidente de consolidar a base parlamentar , Luiz Carlos Santos não perdeu tempo .
+Os empresários , quem diria , foram propor greve aos trabalhadores .
+Os presidentes da Confederação Nacional Da Indústria ( Cni ) , deputado Fernando Bezerra ( Pmdb - Rn ) , e da Federação Das Indústrias De São Paulo ( Fiesp ) , Carlos Eduardo Moreira Ferreira , saíram de seus gabinetes , na quinta-feira 25 , para fazer um périplo , no mínimo , inusitado : visitaram as centrais sindicais em busca de aliados , mais numerosos e barulhentos , à proposta de uma greve geral em defesa da retomada do crescimento econômico e das reformas constitucionais .
+Para conquistar o apoio das massas , incluíram ainda no cardápio do protesto o repúdio ao avanço do desemprego .
+" o congresso não pode dar as costas para a sociedade .
+Estamos cansados desse ritmo morno , mole , preguiçoso do Executivo e do Legislativo " , dava a palavra de ordem Moreira Ferreira .
+Pela manhã , os empresários conseguiram a parceria de Luiz Antonio De Medeiros , presidente da Força Sindical .
+Animados , Bezerra e Moreira Ferreira foram , à tarde , até a Central Única Dos Trabalhadores .
+Lá , uma surpresa : encontraram um Vicentinho desconfiado .
+Vicente Paulo Da Silva , presidente da Cut , não quer colocar o seu bloco na rua em favor das reformas .
+Considera que algumas delas , como estão propostas , prejudicam os interesses dos trabalhadores .
+Ele tem outra pauta para uma possível greve geral : " patrão fazendo greve na própria fábrica ?
+Sou bobo , mas nem tanto .
+Faço greve com empresários se for pela reforma agrária , mais emprego e aumento do salário mínimo .
+" apesar desse desencontro de temas , a idéia da greve geral está viva .
+A Cut analisa a possibilidade de convocá-la por contra própria para o próximo dia 13 .
+Os dirigentes da Central , que reúne cerca de quatro milhões de trabalhadores , estão preocupados com o crescimento do desemprego no país .
+Na semana passada , a Fundação Seade - Dieese divulgou o maior índice já alcançado na era Real : 15 da populacão economicamente ativa da grande São Paulo está sem emprego , o equivalente a 1,2 milhão de pessoas , ou toda a população de uma cidade do tamanho de Porto Alegre .
+Álvaro Almeida .
+Na quinta-feira 25 , o governador do Pará , Almir Gabriel ( Psdb ) , depôs durante 40 minutos no Conselho De Defesa Dos Direitos Da Pessoa Humana ( Cddph ) , do Ministério Da Justiça , sobre a chacina de Eldorado De Carajás em que a polícia militar paraense assassinou , segundo os números oficiais , pelo menos 19 trabalhadores rurais sem-terra .
+Gabriel não aceitou responder às perguntas dos conselheiros nem permitiu que os jornalistas acompanhassem a reunião .
+Ao final da sua exposição , o governador se levantou e pediu licença para sair para um encontro com o presidente Fernando Henrique Cardoso .
+A principal conclusão do Cddph foi que Gabriel , que até o massacre desfrutava da reputação de político com preocupações sociais , foi um " omisso " , de acordo com a expressão do advogado Fábio Konder Comparato , um dos integrantes do conselho .
+No mesmo andar , na sala ao lado onde Gabriel apresentou suas explicações , encontra-se o gabinete de trabalho de outro " omisso " : o ministro da Justiça , Nelson Jobim .
+Por duas vezes , antes que o massacre no sul do Pará ocorresse , Jobim foi alertado sobre a possibilidade do conflito .
+" enviei duas cartas ao ministro da Justiça informando sobre a grave situação agrária no Pará " , disse a Istoé o ministro demissionário da Agricultura , José Eduardo De Andrade Vieira , por meio de sua assessoria .
+Jobim nega ter recebido qualquer tipo de aviso .
+" não recebi " , reagiu Jobim , também pela sua assessoria .
+Como titular da Justiça , Jobim poderia , por exemplo , ter tomado providências para que o conselho que vigia o respeito aos direitos humanos fosse ao local antes do pelotão de fuzilamento da Pm .
+Jobim está acumulando desgastes junto ao presidente desde a revelação por Istoé , em novembro de 1995 , do grampo telefônico que envolveu o embaixador Júlio César Gomes Dos Santos com tráfico de influência nas negociações para a implantação do Sistema De Vigilância Da Amazônia ( Sivam ) .
+Não tem o apoio do seu próprio partido , o Pmdb , para permanecer no cargo .
+Só não rodou na reforma ministerial da semana passada porque o presidente ainda procura um nome para substitui-lo .
+Antes da reforma ministerial , o presidente cogitou o nome do deputado paulista Aloysio Nunes Ferreira Filho para o lugar de Jobim .
+Mas , como escolhera o também paulista Luiz Carlos Santos para ser o articulador político do governo , a idéia não se concretizou .
+São Paulo ficaria com muita gente na Esplanada Dos Ministérios .
+Na sexta-feira 26 , o governador Almir Gabriel voltou para Belém profundamente ressentido com o presidente Fernando Henrique Cardoso , por quem acha que foi esnobado numa audiência concedida no Planalto no final da tarde de quinta-feira .
+Gabriel saiu do encontro queixando-se da frieza da recepção palaciana .
+O presidente Fernando Henrique não quis cumprimentá-lo em público para evitar os flashes e as câmeras de televisão .
+À saída , nem mesmo a sala de entrevistas do Planalto foi aberta para o governador .
+" armaram uma arapuca .
+Marcaram o depoimento no conselho para antes da audiência com o presidente para esvaziar as reivindicações do governador " , reclamou o assessor de imprensa de Gabriel , Orli Bezerra .
+Na quinta-feira 25 , Humberto Espínola , coordenador-geral do Conselho De Defesa Dos Direitos Da Pessoa Humana , apresentou um relatório ao Ministério Da Justiça em que afirma que os sem-terra compraram armas com dinheiro dado pelo Incra para a aquisição de comida e diz também que eles foram responsáveis pela agressão inicial aos Pms .
+" não estou acusando ninguém , apenas relatei o que ouvi " , disse Espínola , ao alegar que as informações sobre o desvio de dinheiro foram dadas pelo executor do Incra em Marabá ( Pa ) , José Líbio De Matos , e outras duas pessoas cujos nomes não foram revelados .
+Em Eldorado De Carajás , a reportagem de Istoé apurou que o relato de Espínola tem fundamento .
+Diante do desembarque das tropas da Pm , um sem-terra saiu de trás de uma barricada de alimentos , montada no meio da pista da rodovia Pa-150 , e , de fato , disparou o primeiro tiro , frontal .
+A seguir , houve a reação , violenta , da polícia , com rajadas de metralhadoras .
+Neste momento , os primeiros sem-terra começaram a tombar .
+O problema é que a reportagem também apurou que pelo menos dez sem-terra foram perseguidos , agredidos e , depois de dominados , executados a sangue frio .
+O principal líder do acampamento , Oziel Alves Pereira , 18 anos , foi preso , primeiro , e morto depois .
+" queremos você , Oziel , seu líder de merda " , diziam os policiais .
+Nas imagens gravadas pelo cinegrafista Osvaldo Araújo , do Sbt , Oziel aparece usando uma touca na cabeça e tem um revólver na mão direita .
+Ele não disparou , mas foi apanhado e , ainda na pista da rodovia , começou a ser torturado por policiais .
+Eles obrigavam o sem-terra a gritar slogans do Mst em homenagem a Che Guevara , Zumbi e Antônio Conselheiro .
+Foi levado a um quartel da Pm e , quatro horas depois de sua prisão , ainda era visto amarrado em uma caminhonete e sendo agredido por policiais .
+Segundo várias testemunhas , ele foi assassinado com um tiro no ouvido e golpes de baioneta em frente ao hospital Alcione Barbalho , em Curionópolis .
+Seu rosto ficou desfigurado .
+Outro sem-terra , Graziano Olímpio De Souza , 35 anos , levou um tiro no estômago durante o conflito e implorou para não receber sua bala de misericórdia , mas foi em vão .
+O mesmo aconteceu com Manoel Gomes De Souza , 40 anos , que ferido à bala e pedindo para não morrer , recebeu um tiro fatal na barriga ( leia sobre os outros sete casos nesta página ) .
+Os indícios de retaliação por parte dos policiais também são evidenciados em um relatório reservado da polícia militar do Pará , que apontava os nomes de três integrantes do Mst , acusados de envolvimento na morte do capitão Reivaldo Alves , em novembro do ano passado , em uma emboscada no município de São Geraldo Do Araguaia .
+Alves e mais quatro soldados teriam sido atacados por um grupo de 25 sem-terra , quando retornavam de visita a uma fazenda .
+" a história começou aí , na verdade " , comprova o capitão Maroja , do batalhão da Pm em Parauapebas .
+" os policiais foram destacados para cumprir uma ordem superior para desobstruir a estrada .
+E ao chegarem lá foram recebidos a tiros " , defende-se .
+O clima ficou ainda mais tenso depois que os trabalhadores rurais saquearam um caminhão de alimentos , no dia 11 , durante a caminhada que faziam em direção a Belém para exigir o atendimento de suas reivindicações .
+Fazendeiros e prefeitos da região passaram a pressionar a polícia e a exigir duras medidas contra a ação dos sem-terra .
+O depoimento aos promotores de um dos motoristas que transportaram os policiais para o local do conflito .
+Pedro Alípio , da empresa de ônibus Transbrasiliana comprometeu ainda mais a polícia .
+Ele contou que o coronel Mário Colares Pantoja , comandante do policiamento em Marabá e um dos chefes da operação , pediu aos pms , depois do massacre , para que não comentassem o episódio com ninguém .
+" missão cumprida .
+E ninguém viu nada .
+" o momento parece não ser favorável à reedição de operações como a carnificina patrocinada pela polícia paraense em Eldorado De Carajás .
+Na dúvida , porém , os sobreviventes do massacre permanecem escondidos na mata .
+Do mais graduado líder do acampamento ao mais simplório lavrador analfabeto , não há quem não demonstre orgulho com a capacidade de reação do Movimento Sem-terra ( Mst ) , caso viesse a ocorrer uma nova investida policial na fazenda Macaxeira .
+O caminho para se chegar à área , afinal , é um verdadeiro labirinto para a polícia .
+Caminha-se mais de uma hora por uma trilha inóspita , em meio a igarapés e muito barro , que chega , às vezes , aos joelhos .
+Ali , a polícia dificilmente teria êxito .
+" aqui ninguém entra " , desafia Márcio Lima , um dos principais líderes do acampamento , sem a preocupação de esconder alguns revólveres e velhas espingardas , amontoados nos barracos .
+" pegaram a gente desprevenido .
+Aqui , saberemos nos defender .
+" as 19 mortes em Eldorado De Carajás deram aos sem-terra uma injeção de ânimo .
+Agora , os sem-terra já discutem os termos de desapropriação parcial da fazenda Macaxeira .
+Ela já está praticamente definida pelo Instituto Nacional De Colonização E Reforma Agrária ( Incra ) .
+Só que , para o Mst , a proposta do governo é pífia .
+Prevê a desapropriação de 5,9 mil hectares , quando a área total soma 50 mil hectares .
+Três mil famílias estão ocupando a área , segundo o Mst .
+" a desapropriação parcial vai permitir o assentamento de apenas 200 famílias " , reclama Gladson De Souza , da coordenação estadual do Mst .
+O sul do Pará sempre foi violento .
+Entre 1964 e 1995 , 900 pessoas morreram em conflitos agrários .
+A novidade é a hegemonia do Mst na região .
+Até hoje , quem tinha forte influência no sul do Pará era a Igreja Católica e o Pc Do B .
+Marcada por indefinições , finalmente surgiu a primeira grande certeza na eleição para a prefeitura de São Paulo - o ministro bom de briga das comunicações , Sérgio Motta , jogou a toalha antes de a disputa começar .
+Era tudo o que o líder nas pesquisas de opinião , Francisco Rossi ( Pdt ) , queria .
+Afinal , com a ausência de Serjão , aumentam as chances de a atual polarização entre Rossi e a ex-prefeita Luiza Erundina ( Pt ) estender-se até a reta final da campanha .
+Com a vantagem para Rossi , neste momento , no fato de ele possuir uma taxa de rejeição duas vezes menor que a de Erundina .
+A diferença tem deixado o candidato do Pdt à vontade para defender propostas polêmicas .
+Ele acredita que , em sua gestão , seria possível aproveitar água de chuva para encher reservatórios de grandes edifícios .
+" seria uma saída para economizar água numa cidade que vive em crise de abastecimento " , diz Rossi , que promete transformar a idéia em lei no caso de ganhar a eleição .
+Na mesma linha , o candidato imagina adaptar as garagens dos prédios , durante horários especiais , em estacionamentos públicos .
+Rossi está a cavaleiro na cena eleitoral porque , neste momento , é o único que está com a casa arrumada .
+" já estou com a chapa completa enquanto os outros buscam definições " , comemora .
+Para se ter uma idéia da tranquilidade de Rossi , basta saber que sua atual preocupação é voltar a Toronto , no Canadá , para conferir os resultados de um projeto de trânsito , implantado há 11 anos , que reduziu a quantidade de carros em circulação nos horários de pico pela implantação de bolsões de estacionamento .
+Consciente de que uma das principais deficiências de sua candidatura é a ausência de um plano de governo , Rossi encarregou seu vice , o vereador Marcos Cintra ( Pl ) , de coordenar um estudo dos problemas de São Paulo .
+Apesar da iniciativa , Rossi reluta em admitir que montará um programa de governo .
+Prefere falar em metas , argumentando que os planos clássicos " acabam na gaveta " .
+Em 1994 , ele usou o mesmo discurso durante a campanha derrotada para o Palácio Bandeirantes .
+Na ocasião , foi criticado por defender o fechamento do estado para balanço por 15 dias mas , desta vez , não acha a medida necessária .
+" o próximo prefeito terá dificuldades no começo , depois nadará de braçada .
+" para chegar lá , Rossi vai fazendo ajustes .
+Famoso por ter feito a última campanha com a bíblia na mão , afasta-se cada vez mais do discurso religioso e debate questões nacionais .
+Na quinta-feira 25 , marcou pontos no programa show do Paulo Lopes , da Rádio Globo , ao defender a regionalização do salário mínimo .
+" aqui , o salário deveria ser maior , pois as despesas são maiores " , disse para um milhão de ouvintes , a maioria de baixa renda .
+Do mesmo programa , saiu coberto de elogios há 15 dias , na esteira de uma viagem a Pernambuco , no auge do escândalo da hemodiálise de Caruaru ( Pe ) .
+Uma maneira ousada de fazer política marca a trajetória de Rossi .
+No passado , à frente da prefeitura de Osasco , cruzou o mundo em nome da cidade .
+Durante o primeiro mandato , de 1973 a 1977 , acompanhou de perto as atividades dos vereadores de Toronto , no Canadá , e estabeleceu um convênio cultural-esportivo com a cidade de Tsu , no Japão , respaldado pelos moradores de origem nipônica de Osasco .
+Ao longo do segundo mandato , de 1989 a 1992 , fechou convênios similares na Itália e em Angola .
+Na Europa , restabeleceu laços históricos com a cidade italiana de Osasco , nas imediações de Torino , terra natal de Antonio Agú , fundador da homônima cidade paulista .
+Na África , embalado pela comunidade negra de Osasco , estabeleceu vínculos formais com a cidade angolana de Viena , na província de Luanda .
+" o convênio era cultural , mas estávamos encaminhando também acordos comerciais " , lembra Rossi .
+" o projeto só não vingou por causa do recrudescimento da guerra civil em Angola .
+" guardadas as proporções , na atual campanha , Rossi continua em sua investida globalizante .
+Há seis meses , é dono de uma home page na internet .
+Foi fácil .
+Na quarta-feira 24 , seis homens armados com fuzis Ar-15 e minimetralhadoras não encontraram dificuldades para assaltar um avião Fokker-100 da Tam , em plena pista do aeroporto de São José Dos Campos , em São Paulo .
+Eles levaram 450 quilos de dinheiro , distribuídos em 18 malotes da Brink's Transportadora De Valores .
+A ação foi cinematográfica .
+Às 8h30 , três rapazes usando os nomes de José Oliveira , Paulo Rodrigo e Marcelo Costa compraram , no próprio aeroporto , passagens para São Paulo .
+Eles pagaram r 110 em notas de cinco , com dinheiro falso .
